@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Mario & Luigi & me" 
+=======
+"Mario" 
+>>>>>>> parent of 5c35899 (Second commit)
